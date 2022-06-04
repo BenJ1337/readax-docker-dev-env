@@ -1,0 +1,9 @@
+[submodule "docker-apache-php"]
+	path = docker-apache-php
+	url = git@github.com:BenJ1337/docker-apache-php.git
+[submodule "redaxo"]
+	path = redaxo
+	url = git@github.com:BenJ1337/redaxo.git
+[submodule "webpack-jquery-bootstrapj-sass"]
+	path = webpack-jquery-bootstrapj-sass
+	url = git@github.com:BenJ1337/webpack-jquery-bootstrapj-sass.git
